@@ -1,6 +1,6 @@
 # Biogas Generation and Control System
 
-VegeFuel is an innovative biogas Generation and Control System designed to harness sustainable energy from biomass through anaerobic digestion. The project integrates cutting-edge technologies, including Arduino Uno, electric sensors, and a custom mobile application developed using MIT App Inventor. This synergistic combination enables efficient control, monitoring, and user interaction within the biogas generation process.
+VegeFuel is an innovative biogas Generation and Control System designed to harness sustainable energy from biomass through anaerobic digestion. The project integrates cutting-edge technologies, including Arduino Uno, electric sensors, and a custom mobile application developed using MIT App Inventor. This synergistic combination enables efficient control, monitoring, and user interaction within the biogas generation process. The project aims to utilize the 30 million tons of Biomass generated annually in Egypt to provide approximately 3 million Egyptians with their annual energy need of natural gas using a sustainable energy generation process.
 
 ## Arduino Uno Microcontroller
 
